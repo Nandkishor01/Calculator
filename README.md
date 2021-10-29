@@ -1,2 +1,2 @@
 # Calculator
-My frist python calculator
+My frist python calculator through GC
